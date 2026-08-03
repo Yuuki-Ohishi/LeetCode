@@ -10,15 +10,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0392-is-subsequence](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
