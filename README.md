@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
