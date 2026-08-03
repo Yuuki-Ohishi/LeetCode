@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Dynamic Programming
@@ -43,5 +44,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
