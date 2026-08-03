@@ -15,5 +15,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
