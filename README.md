@@ -46,4 +46,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
