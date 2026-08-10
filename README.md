@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0605-can-place-flowers](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0724-find-pivot-index](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
