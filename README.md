@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Two Pointers
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
 | Problem Name | Difficulty |
