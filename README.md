@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0443-string-compression/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Dynamic Programming
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -96,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Yuuki-Ohishi/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 <!---LeetCode Topics End-->
