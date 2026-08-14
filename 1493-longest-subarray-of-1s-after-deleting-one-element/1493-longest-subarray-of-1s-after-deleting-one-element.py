@@ -17,7 +17,7 @@ class Solution:
                     zero_count -= 1
                 left += 1
 
-            #0を含まない要素数を計算
+            #ウィンドウから必ず1要素削除する
             length = right - left
             #0が1個以下で0を除いた最大の長さを保存
             max_length = max(max_length, length)
