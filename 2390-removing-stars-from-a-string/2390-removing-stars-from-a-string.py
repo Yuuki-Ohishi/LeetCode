@@ -6,7 +6,6 @@ class Solution:
         for char in s:
             if char == "*":
                 stack_list.pop()
-            
             else:
                 stack_list.append(char)
         
